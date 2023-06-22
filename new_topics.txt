@@ -1,0 +1,101 @@
+-----------Top 10 words for New Alpha----------
+-----------Topic-----------
+[['enclosing'], ['loess'], ['portland'], ['fined'], ['lacks'], ['regu'], ['heskes'], ['newman'], ['raining'], ['liii']]
+
+
+-----------Topic-----------
+[['gopal'], ['pointwise'], ['stocks'], ['scalp'], ['eventrelated'], ['skin'], ['mdps'], ['jabri'], ['breast'], ['singletrial']]
+
+
+-----------Topic-----------
+[['proficient'], ['numerikkiel'], ['scaleparameters'], ['beobachtung'], ['inad'], ['seperate'], ['mathematik'], ['logr'], ['orange'], ['swings']]
+
+
+-----------Topic-----------
+[['pitfalls'], ['stringent'], ['machinery'], ['monotonously'], ['tinuity'], ['morgankaufmann'], ['respon'], ['copenhagen'], ['cease'], ['bielefeld']]
+
+
+-----------Topic-----------
+[['ehrenfeucht'], ['telstra'], ['cardinality'], ['kung'], ['logx'], ['kamm'], ['blumer'], ['lexington'], ['huang'], ['cepstral']]
+
+
+-----------Topic-----------
+[['vestibular'], ['stick'], ['adversary'], ['gesture'], ['food'], ['tectum'], ['comparator'], ['compensation'], ['gestures'], ['tectal']]
+
+
+-----------Topic-----------
+[['kowalczyk'], ['ehrenfeucht'], ['brunswick'], ['universite'], ['kamm'], ['kung'], ['moghaddam'], ['ferra'], ['superpositions'], ['telstra']]
+
+
+-----------Topic-----------
+[['monomials'], ['horiuchi'], ['resistances'], ['hres'], ['observables'], ['decoder'], ['blake'], ['font'], ['bruck'], ['convolutional']]
+
+
+-----------Topic-----------
+[['legendre'], ['bindings'], ['hillclimbing'], ['visit'], ['clique'], ['pbil'], ['slot'], ['mutation'], ['crossover'], ['fitness']]
+
+
+-----------Topic-----------
+[['strange'], ['laborious'], ['perspec'], ['multiplicity'], ['akaike'], ['redefine'], ['icsi'], ['tnal'], ['regu'], ['enormous']]
+
+
+-----------Topic-----------
+[['potts'], ['player'], ['episodes'], ['ranks'], ['psom'], ['schaal'], ['gentner'], ['gold'], ['syllable'], ['chess']]
+
+
+-----------Topic-----------
+[['platform'], ['koenig'], ['saito'], ['worstcase'], ['lebiere'], ['schuster'], ['lookahead'], ['uninformed'], ['locking'], ['cascadecorrelation']]
+
+
+-----------Topic-----------
+[['lamprey'], ['tebelskis'], ['spinal'], ['cord'], ['janus'], ['rhythmic'], ['familiarity'], ['artmap'], ['tones'], ['parsec']]
+
+
+-----------Topic-----------
+[['fanty'], ['cole'], ['cone'], ['barhen'], ['home'], ['doya'], ['chorale'], ['pendulum'], ['kawato'], ['song']]
+
+
+-----------Topic-----------
+[['scaleparameters'], ['logr'], ['sectors'], ['sympathetic'], ['invokes'], ['awarded'], ['observ'], ['indian'], ['perforated'], ['terminations']]
+
+
+-----------Topic-----------
+[['coin'], ['cmac'], ['lightness'], ['martinetz'], ['priming'], ['vmos'], ['strain'], ['proteins'], ['mouse'], ['routing']]
+
+
+-----------Topic-----------
+[['baroque'], ['dickinson'], ['schuurmans'], ['deirdre'], ['fahle'], ['jazz'], ['primar'], ['daley'], ['wind'], ['closedloop']]
+
+
+-----------Topic-----------
+[['ehrenfeucht'], ['brunswick'], ['graz'], ['kamm'], ['telstra'], ['lexington'], ['kung'], ['pseudodimension'], ['maass'], ['norms']]
+
+
+-----------Topic-----------
+[['freedman'], ['pseudodimension'], ['ferra'], ['ehrenfeucht'], ['huang'], ['kamm'], ['maass'], ['telstra'], ['lexington'], ['cepstral']]
+
+
+-----------Topic-----------
+[['clocked'], ['specialize'], ['blegdamsvej'], ['nonlin'], ['cease'], ['contin'], ['bohr'], ['uous'], ['compactly'], ['copenhagen']]
+
+
+-----------Topic-----------
+[['backpropaga'], ['expecta'], ['regu'], ['icsi'], ['luckily'], ['raining'], ['clarifies'], ['strange'], ['heskes'], ['prac']]
+
+
+-----------Topic-----------
+[['transparent'], ['movie'], ['discriminations'], ['selfsimilarity'], ['grunewald'], ['etrain'], ['physically'], ['documents'], ['argi'], ['pact']]
+
+
+-----------Topic-----------
+[['hancock'], ['rangacv'], ['anova'], ['dyna'], ['scholkopf'], ['klein'], ['eligibility'], ['sweeping'], ['prioritized'], ['wahba']]
+
+
+-----------Topic-----------
+[['mjolsness'], ['stringent'], ['clocked'], ['uous'], ['contin'], ['cease'], ['objec'], ['morgankaufmann'], ['compactly'], ['copenhagen']]
+
+
+-----------Topic-----------
+[['moghaddam'], ['harmonium'], ['cavity'], ['corrective'], ['spence'], ['eigenfaces'], ['hpnn'], ['vlvp'], ['boosting'], ['facial']]
+
+
